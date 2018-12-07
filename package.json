@@ -1,0 +1,26 @@
+{
+  "name": "0x-instant-component",
+  "version": "1.0.0",
+  "description": "A react component to use the 0x Instant Exchange logic",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andy8052/0x-instant-component"
+  },
+  "scripts": {
+    "build": "npx babel src --out-dir lib",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Chorlian",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.0",
+    "@babel/polyfill": "^7.0.0",
+    "@babel/preset-react": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0"
+  }
+}
