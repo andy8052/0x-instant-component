@@ -4,7 +4,9 @@ A plug and play 0x Instant component.
 
 ## TODO
 ✅ Add props for supported tokens
+
 ✅ Add props for fees
+
 ⭕ Maybe find a better way to inject script
 
 ## Usage
